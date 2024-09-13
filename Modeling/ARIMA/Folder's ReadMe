@@ -1,0 +1,8 @@
+This folder contains the ARIMA models and its supplementary work.
+
+The  main notebooks containing ARIMA models are: 
+* ARIMA – Aggregate - (43A.1-modeling-ARIMA-Aggregate.ipynb)
+* ARIMA – Product Cycle - (43Growth-modeling-ARIMA.ipynb)
+* ARIMA – Growth - (43Growth-modeling-ARIMA.ipynb)
+
+The rest of the notebooks are just supplementary notebooks.

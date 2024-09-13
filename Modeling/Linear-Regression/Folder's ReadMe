@@ -1,0 +1,5 @@
+This folder contains the linear regression notebooks.
+
+There are two linear regression models:
+* 43-modeling-regression - This notebook contains the smaller feature set
+* 43A-modeling-regression - This notebook contains the larger feature set
